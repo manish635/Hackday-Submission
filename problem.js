@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> AGGRADATION | Home</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/responsiveslides.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="js/responsiveslides.min.js"></script>
+		  <script>
+			    $(function () {
+			      $("#slider1").responsiveSlides({
+			        maxwidth: 1600,
+			        speed: 2000
+			      });
+			});
+		  </script>
+	</head>
+	<body>
+			<div class="header">
+				<div class="wrap">
+					<div class="header-top">
+						<div class="logo">
+							<a href="index.html"><img src="images/logo2.png" title="logo" /></a>
+						</div
+						<div class="contact-info">
+						<div class="clear"> </div>
+					</div>
+				</div>
+				<div class="header-top-nav">
+					<div class="wrap">
+						<ul>
+							<li class="active"><a href="index.html">INTRODUCTION</a></li>
+							<li><a href="INTRODATION.html">PROBLEM</a></li>
+							<li><a href="PROBLEM.html">EFFECTS</a></li>
+							<li><a href="EFFECTS.html">SOLUTION</a></li>
+							<div class="clear"> </div>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="clear"> </div>
+					<div class="image-slider">
+						    <ul class="rslides" id="slider1">
+						      <li><img src="images/forest.jpg" alt="" style="height:500px;"></li>
+						      <li><img src="images/forest2.jpg" alt=""style="height:500px;"></li>
+						      <li><img src="images/forest3.jpg" alt=""style="height:500px;"></li>
+						    </ul>
+					</div>
+			<div class="content">
+				<div class="quit"
+					<p><span class="start"></span>  <span class="end">.</span></p>
+				</div>
+								<a href="#"></a>
+							</div>
+							<div class="content-grid-info">
+								<h3></h3>
+								<p>"DESCRIPTION"</p>
+						CAUSES OF ENVIRONMENTAL DEGRADATION Environmental changes are based on many factors including: Urbanization Population growth Economic growth Intensification of agriculture Increase in transportation The primary cause  of environmental degradation is human disturbance.  The degree  of the environmental  impact  varies  
+								<a href="#"></a>
+							</div>
+							<div class="content-grid-info">
+								<h3></h3>
+								<p>
+								Environmental degradation is an umbrella concept which covers a variety of issues including 
+                            pollution,  biodiversity  loss  &  animal  extinction,  deforestation  &  desertification,  global 
+                            warming, and a lot more. 
+                            Environmental  degradation  is  the  deterioration  of  the  environment  through  depletion  of 
+                            resources  such  as  air,  water and soil;  the  destruction  of Ecosystems.</p>
+							
+					<ul>
+						<li>Please prevent envirment </li>
+						<li></li>
+						<li></li>
+						<li><</li>
+						<li></li>
+					</ul>
+				</div>
+		
+				<div> </div>
+			</div>
+		</div>
+		
+		</div>
+			</div>
+		</div>
+	</body>
+	</html>
